@@ -67,10 +67,10 @@ global.ppulsa2 = '-' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282260297438'
-global.nomorown = '6281336721352'
-global.namebot = 'DEV-BOT-V1'
-global.nameown = 'ZRILL DEV'
+global.nomorbot = '0895416168124'
+global.nomorown = '6282311657293'
+global.namebot = 'BleatzBOT'
+global.nameown = 'Joeshyra'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'NazrilOfficial' // nama github lu
